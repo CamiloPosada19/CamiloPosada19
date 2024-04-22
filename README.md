@@ -2,29 +2,45 @@
 
 <p id="description">I work as Quality Assurance Automation Specialist. Focused on Test and Process Automation. 💻 My Tech Stack Programming Languages 🚀</p>
 
-<h2>My tech stacks:</h2>
+### :hammer_and_wrench: Languages and Dev Tools :
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Python" **alt="Git" width="40" height="40"/>
 
-<thead>
-<tr>
 
-<th align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width="60" style="max-width: 100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width="60" style="max-width: 100%;"></a></th>
+### 🐞 Testing Tools :
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" **alt="Cucumber" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/karatelabs/karatelabs-original.svg" title="Karate" **alt="Karate" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatling/gatling-plain-wordmark.svg" title="Karate" **alt="Gatling" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" **alt="Playwright" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original-wordmark.svg" title="CypressIO" **alt="CypressIO" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" **alt="Pytest" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" **alt="Azure DevOps" width="40" height="40"/>
 
-<th align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/477679c49a9e9ccf122d8e1f5cf8fe7787bbe5dccc551d2950f6f934177566d9/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36312f48544d4c355f6c6f676f5f616e645f776f72646d61726b2e7376672f32333070782d48544d4c355f6c6f676f5f616e645f776f72646d61726b2e7376672e706e67"><img src="https://camo.githubusercontent.com/477679c49a9e9ccf122d8e1f5cf8fe7787bbe5dccc551d2950f6f934177566d9/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36312f48544d4c355f6c6f676f5f616e645f776f72646d61726b2e7376672f32333070782d48544d4c355f6c6f676f5f616e645f776f72646d61726b2e7376672e706e67" width="60" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/230px-HTML5_logo_and_wordmark.svg.png" style="max-width: 100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cf001d2a684fad204e899dab911627fbe9180dbaf26f89c432f438a375e88e6a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64352f435353335f6c6f676f5f616e645f776f72646d61726b2e7376672f3132303070782d435353335f6c6f676f5f616e645f776f72646d61726b2e7376672e706e67"><img src="https://camo.githubusercontent.com/cf001d2a684fad204e899dab911627fbe9180dbaf26f89c432f438a375e88e6a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64352f435353335f6c6f676f5f616e645f776f72646d61726b2e7376672f3132303070782d435353335f6c6f676f5f616e645f776f72646d61726b2e7376672e706e67" width="60" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" style="max-width: 100%;"></a></th>
-</tr>
-</thead>
+</div>
+
+
+
 <p dir="auto"><g-emoji class="g-emoji" alias="robot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png">🤖</g-emoji> My Test Automation Projects</p>
 
 <ul dir="auto">
 <li><a href="https://github.com/CamiloPosada19/CypressTemplate">cypress-demo-framework</a> - Project where I cover the basic concepts of Cypress IO &amp; integrate different technologies like docker,allure,cucumber , and so on.</li>
 <br>
-
 <li><a href="https://github.com/CamiloPosada19/KarateTemplate">karate-demo-framework</a> - Project where I cover the basic concepts of Karate dsl and Gatling; integrate different technologies like cucumberreports , and so on.</li>
 <br>
-
 <li><a href="https://github.com/CamiloPosada19/PythonTemplatee">python-demo-framework</a> - Project where I cover the basic concepts of Python,Cucumber and behave; and so on.</li>
+<li><a href="https://github.com/CamiloPosada19/PlaywrightOverview">playwright-demo-framework</a> - Project where I cover the basic concepts of Js,Cucumber and playwright; and so on.</li>
 
 
 </ul>
+
+
 
