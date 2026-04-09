@@ -103,6 +103,22 @@ $ cat profile.json
 
 ---
 
+## `> contact --preguntas`
+
+<div align="center">
+
+¿Tienes alguna pregunta, propuesta o simplemente quieres saludar? ¡Claro que puedes preguntar! 😊
+
+| Canal | Enlace |
+|---|---|
+| 💬 GitHub Issues | [Abre un issue](https://github.com/CamiloPosada19/CamiloPosada19/issues) |
+| 📧 Email | [camilo.posada.acosta@gmail.com](mailto:camilo.posada.acosta@gmail.com) |
+| 🔗 LinkedIn | [camiloposadaacosta](https://www.linkedin.com/in/camiloposadaacosta) |
+
+</div>
+
+---
+
 ## `> stats`
 
 <div align="center">
